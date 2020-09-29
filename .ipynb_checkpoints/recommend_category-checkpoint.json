@@ -1,0 +1,174 @@
+{
+	"4050": [
+		"couple",
+		"first-birthday"
+	],
+	"animalcompany": [
+		"zoo",
+		"first-birthday"
+	],
+	"artwork-creative-h-and-m": [
+		"event",
+		"video-wedding"
+	],
+	"artwork-dark": [
+		"evil-omen",
+		"artwork-creative-h-and-m"
+	],
+	"bj": [
+		"first-birthday",
+		"couple"
+	],
+	"body": [
+		"seminude",
+		"bj"
+	],
+	"cat": [
+		"panorama",
+		"tour"
+	],
+	"ceo": [
+		"uniform",
+		"first-birthday"
+	],
+	"club": [
+		"video-wedding",
+		"event"
+	],
+	"couple": [
+		"first-birthday",
+		"video-wedding"
+	],
+	"dog": [
+		"withyou",
+		"animalcompany"
+	],
+	"event": [
+		"video-wedding",
+		"first-birthday"
+	],
+	"evil-omen": [
+		"artwork-dark",
+		"event"
+	],
+	"fashionshow": [
+		"street",
+		"event"
+	],
+	"fighter": [
+		"zoo",
+		"tour"
+	],
+	"first-birthday": [
+		"video-wedding",
+		"tour"
+	],
+	"food": [
+		"landscape",
+		"first-birthday"
+	],
+	"good-omen": [
+		"portrait-strong",
+		"first-birthday"
+	],
+	"group": [
+		"4050",
+		"first-birthday"
+	],
+	"kids": [
+		"ceo",
+		"tour"
+	],
+	"landscape": [
+		"street",
+		"first-birthday"
+	],
+	"location": [
+		"video-wedding",
+		"club"
+	],
+	"lookbook": [
+		"tour",
+		"uniform"
+	],
+	"model-and-actor": [
+		"group",
+		"fashionshow"
+	],
+	"musician": [
+		"bj",
+		"couple"
+	],
+	"panorama": [
+		"tour",
+		"location"
+	],
+	"person": [
+		"bj",
+		"model-and-actor"
+	],
+	"portrait-strong": [
+		"couple",
+		"good-omen"
+	],
+	"product": [
+		"withyou",
+		"first-birthday"
+	],
+	"seminude": [
+		"body",
+		"good-omen"
+	],
+	"street": [
+		"landscape",
+		"fashionshow"
+	],
+	"tour": [
+		"panorama",
+		"first-birthday"
+	],
+	"uniform": [
+		"ceo",
+		"landscape"
+	],
+	"video-club": [
+		"video-entertainment",
+		"first-birthday"
+	],
+	"video-entertainment": [
+		"video-club",
+		"video-fashion"
+	],
+	"video-excercise": [
+		"video-fashion",
+		"first-birthday"
+	],
+	"video-fashion": [
+		"video-club",
+		"event"
+	],
+	"video-music": [
+		"video-sketch",
+		"first-birthday"
+	],
+	"video-sketch": [
+		"video-entertainment",
+		"video-fashion"
+	],
+	"video-wedding": [
+		"first-birthday",
+		"panorama"
+	],
+	"wedding": [
+		"first-birthday",
+		"video-wedding"
+	],
+	"withyou": [
+		"product",
+		"first-birthday"
+	],
+	"zoo": [
+		"landscape",
+		"first-birthday"
+	]
+}

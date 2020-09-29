@@ -1,0 +1,33 @@
+의미 없는 카테고리 # 11
+contact
+for-english
+about-studio
+news
+review-board
+grapher
+model
+music
+apply-event
+print-copy
+print
+guide-body
+map
+lesson-photo
+reservation-process
+retouching-process
+
+
+
+
+
+중분류	#10	소분류 # 42
+concept : artwork-dark / artwork-creative-h-and-m / portrait-strong #3
+outdoor : evil-omen / good-omen / landscape #3 
+product : lookbook / uniform / product / food / animalcompany # 5
+fashion : fashionshow / street # 2
+animal : zoo / dog / cat / withyou # 4 
+place : event / panorama / club # 3
+normal : person / kids / body / seminude / 4050 / location / group # 7
+celeb : musician / model-and-actor / ceo / bj #4
+specialday : wedding / first-birthday / couple / tour #4
+video : video-fashion / video-music / video-exercise / video-club / video-sketch / video-entertainment / video-wedding # 7
